@@ -1,0 +1,23 @@
+{
+    "name": "wisonlau/pagination",
+    "type": "library",
+    "description": "PHP pagination",
+    "keywords": ["Paginator", "pagination", "page"],
+    "homepage": "http://github.com/wisonlau/php-pagination",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wisonlau",
+            "email": "122022066@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {"wisonlau": "src/"}
+    }
+
+}
+
+
